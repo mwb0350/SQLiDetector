@@ -151,7 +151,7 @@ optional arguments:
 
 **SQLiDetector**：
 
-https://github.com/0350/SQLiDetector
+[https://github.com/0350/SQLiDetector](https://github.com/mwb0350/SQLiDetector)
 
 
 
