@@ -1,4 +1,4 @@
-# SQLiDetector    [中文]()
+# SQLiDetector  |  [中文使用](https://github.com/mwb0350/SQLiDetector/blob/ec0f07262904a1c1ffdc304a6a577b7e0477bdf3/README.md)
 Simple python script supported with BurpBouty profile that helps you to detect SQL injection "Error based" by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.
 ```
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
